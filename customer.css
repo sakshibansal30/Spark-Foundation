@@ -1,0 +1,69 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-image:linear-gradient(#2980B9,#f2fcfe,#6DD5FA);
+    margin: 0;
+    padding: 0;
+}
+.bg-light{
+    background-color:#82B8F5!important;
+}
+.navbar-brand{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+    color: black!important;
+    font-weight: bold;
+}
+.nav-link{
+    color:black!important;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.nav-link:hover{
+    background-color: #f3f1f1;
+}
+.my-info{
+    padding: 2rem 5rem;
+    font-family: unset;
+    font-weight: bold;
+}
+.btn-info{
+    padding: 0.7rem 2rem!important;
+    background-color:#146ca4!important;
+    color: #fff!important;
+    margin-left: 24px;
+    padding: 0.75rem;
+    transition: all 0.3s;
+    font-size: 15px;
+   
+}
+.btn-info:hover{
+    background-color: rgb(67, 83, 230)!important;
+}
+.btn-secondary{
+    color: white!important;
+    background-color: red!important;
+    margin-right: 10px;
+}
+.btn-secondary:hover{
+    background-color:#FF3232!important;
+}
+.btn-success{
+    color: white!important;
+    background-color: #504A4B!important;
+    margin-left: 10px;
+}
+.btn-success:hover{
+    background-color:#A09A9B!important;
+}
+.btn-danger{
+    color: white!important;
+    background-color: red!important;
+}
+.table td,.table th{
+    padding: 12px;
+    border: 2px solid black;
+}
+.table th{
+    background-color: #021B79;
+    color: white!important;
+    font-family: cursive;
+}
